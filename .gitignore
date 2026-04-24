@@ -1,4 +1,3 @@
-rosbag*/
-bag.log
-pcap.log
-*.pcap
+recordings/*
+!recordings/bag/.gitkeep
+!recordings/pcap/.gitkeep
